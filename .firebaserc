@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "boosten-academy"
+  },
+  "targets": {
+    "boosten-academy": {
+      "hosting": {
+        "dashboard": [
+          "dashboard-boosten-academy"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
